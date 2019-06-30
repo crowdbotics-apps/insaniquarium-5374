@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT insaniquarium_5374.wsgi:application
